@@ -65,7 +65,7 @@ export default function App() {
         Card {index + 1} of {naijaCards.length}
       </p>
 
-      <footer className="absolute bottom-6 text-xs text-naijaWhite/70">
+      <footer className="absolute bottom-6 text-xs ">
         Built with ❤️ in Nigeria
       </footer>
     </div>
