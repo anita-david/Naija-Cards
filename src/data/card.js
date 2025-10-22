@@ -1,5 +1,21 @@
 export const naijaCards = [
   {
+    word: "Hallelujah Challenge",
+    description: ["Nathaniel Bassey", "Trumpet", "streaming", "midnight"],
+  },
+  {
+    word: "no gree for anybody",
+    description: ["popular ", "slang", "pidgin language", "2024"],
+  },
+  {
+    word: "mtn",
+    description: ["network ", "yellow", "south africa", "everywhere you go"],
+  },
+  {
+    word: "nepo baby",
+    description: ["priviledged ", "rich", "connection", "soft life"],
+  },
+  {
     word: "Jollof Rice",
     description: ["spicy", "tomato", "party food", "West-African pride"],
   },
